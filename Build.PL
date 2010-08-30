@@ -10,6 +10,7 @@ my $build = Module::Build->new(
     create_readme => 1,
     requires => {
         'Devel::Declare::Parser' => 0.017,
+        'Exporter::Declare' => 0.023,
     },
     meta_merge => {
         resources => {

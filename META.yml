@@ -13,11 +13,12 @@ name: Devel-Declare-Parser-Fennec
 provides:
   Devel::Declare::Parser::Fennec:
     file: lib/Devel/Declare/Parser/Fennec.pm
-    version: 0.001
+    version: 0.002
 requires:
   Devel::Declare::Parser: 0.017
+  Exporter::Declare: 0.023
 resources:
   bugtracker: http://github.com/exodist/Devel-Declare-Parser-Fennec/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/Devel-Declare-Parser-Fennec
-version: 0.001
+version: 0.002
