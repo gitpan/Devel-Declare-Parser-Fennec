@@ -4,7 +4,7 @@ author:
   - 'Chad Granum <exodist7@gmail.com>'
 configure_requires:
   Module::Build: 0.36
-generated_by: 'Module::Build version 0.3607'
+generated_by: 'Module::Build version 0.3603'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -13,12 +13,12 @@ name: Devel-Declare-Parser-Fennec
 provides:
   Devel::Declare::Parser::Fennec:
     file: lib/Devel/Declare/Parser/Fennec.pm
-    version: 0.003
+    version: 0.004
 requires:
   Devel::Declare::Parser: 0.017
-  Exporter::Declare: 0.1
+  Exporter::Declare: 0.102
 resources:
   bugtracker: http://github.com/exodist/Devel-Declare-Parser-Fennec/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/Devel-Declare-Parser-Fennec
-version: 0.003
+version: 0.004
