@@ -4,3 +4,4 @@ MANIFEST			This list of files
 t/Parser.t
 README
 META.yml
+META.json
